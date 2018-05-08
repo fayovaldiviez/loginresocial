@@ -1,0 +1,26 @@
+page-login {
+    ion-content {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/240033+1,4c0099+100 */
+        //background: rgb(36, 0, 51);
+        /* Old browsers */
+        //background: -moz-linear-gradient(-45deg, rgba(36, 0, 51, 1) 1%, rgba(76, 0, 153, 1) 100%);
+        /* FF3.6-15 */
+        // background: -webkit-linear-gradient(-45deg, rgba(36, 0, 51, 1) 1%, rgba(76, 0, 153, 1) 100%);
+        /* Chrome10-25,Safari5.1-6 */
+        //background: linear-gradient(135deg, rgba(36, 0, 51, 1) 1%, rgba(76, 0, 153, 1) 100%);
+        background: url("../../assets/imgs/fondo.jpg") no-repeat center;
+        background-size: cover;
+    }
+    img {
+        width: 100%;
+    }
+    h4 {
+        color: white;
+    }
+    .top-20 {
+        margin-top: 20%;
+    }
+    .top-5 {
+        margin-top: 5%;
+    }
+}
